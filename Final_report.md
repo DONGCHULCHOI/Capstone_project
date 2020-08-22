@@ -1,5 +1,4 @@
 # <p align="center"> The Battle of Neighborhoods</p>
-### <p align="center"> Author: Khiem Tran</p>
 
 
 ## 1. Introduction
